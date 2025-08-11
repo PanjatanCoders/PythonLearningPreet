@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if used)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+coverage.xml
+*.cover
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+*.mo
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
